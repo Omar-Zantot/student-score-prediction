@@ -4,15 +4,6 @@ This project applies machine learning and neural networks to predict final stude
 
 ---
 
-## 📌 Goal
-Build and evaluate a regression model that accurately predicts student exam scores using features such as:
-- Study time
-- Prior grades (G1, G2)
-- Parental education level
-- Absences, failures, internet access, etc.
-
----
-
 ## 🧠 Dataset
 
 ### Source
@@ -23,18 +14,6 @@ Build and evaluate a regression model that accurately predicts student exam scor
 - `G3` (Final exam score) in the UCI dataset  
   or  
 - `math score`, `reading score`, or `writing score` in the Kaggle version
-
----
-
-## 📂 Features Used
-
-- `studytime`: Weekly study time
-- `failures`: Number of past class failures
-- `absences`: Number of school absences
-- `G1`, `G2`: Previous grades
-- `school`, `sex`, `age`, `address`, `Pstatus`: Demographics
-- `Medu`, `Fedu`: Parental education
-- `internet`: Internet access at home
 
 ---
 
